@@ -1,0 +1,13 @@
+# C compiled files
+*.o
+*.exe
+*.out
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Other
+.DS_Store
+*.log
